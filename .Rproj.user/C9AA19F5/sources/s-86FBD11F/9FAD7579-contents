@@ -1,0 +1,181 @@
+baseURL = "http://www.example.com"
+title = "Peng Wang"
+
+theme = "hugo-coder"
+
+languageCode = "en"
+defaultContentLanguage = "en"
+
+paginate = 20
+
+pygmentsStyle = "b2"
+pygmentsCodeFences = true
+pygmentsCodeFencesGuessSyntax = true
+
+#disqusShortname = "yourdiscussshortname"
+
+[params]
+    author = "Peng Wang"
+    description = "Peng Wang's Personal Website"
+    keywords = "blog, personal"
+    info = "PhD Student in Epidemiology, Infectious Diseases Modeling"
+    avatarURL = "images/IMG_2226.jpeg"
+    #gravatar = ""
+    footerContent = "RStat, Rutgers SPH"
+
+    dateFormat = "January 2, 2006"
+
+    hideFooter = false
+    hideCredits = false
+    hideCopyright = false
+    since = 2019
+
+    # Git Commit in Footer, uncomment the line below to enable it.
+    #commit = "https://github.com/luizdepra/hugo-coder/tree/"
+
+    rtl = false
+
+    # Specify light/dark colorscheme
+    # Supported values:
+    # "auto" (use preference set by browser)
+    # "dark" (dark background, light foreground)
+    # "light" (light background, dark foreground) (default)
+    colorScheme = "auto"
+
+    # Hide the toggle button, along with the associated vertical divider
+    hideColorSchemeToggle = false
+
+    # Series see also post count
+    maxSeeAlsoItems = 5
+
+    # Enable Twemoji
+    enableTwemoji = true
+
+    # Custom CSS
+    customCSS = []
+
+    # Custom SCSS
+    customSCSS = []
+
+    # Custom JS
+    customJS = []
+
+# If you want to use fathom(https://usefathom.com) for analytics, add this section
+#[params.fathomAnalytics]
+#    siteID = "ABCDE"
+    # Default value is cdn.usefathom.com, overwrite this if you are self-hosting
+#    serverURL = "analytics.example.com"
+
+# If you want to use plausible(https://plausible.io) for analytics, add this section
+#[params.plausibleAnalytics]
+#    domain = "example.com"
+    # Default value is plausible.io, overwrite this if you are self-hosting or using a custom domain
+#    serverURL = "analytics.example.com"
+
+# If you want to use goatcounter(https://goatcounter.com) for analytics, add this section
+#[params.goatCounter]
+#    code = "code"
+
+# If you want to use Cloudflare Web Analytics(https://cloudflare.com) for analytics, add this section
+#[params.cloudflare]
+#    token = "token"
+
+[taxonomies]
+  category = "categories"
+  series = "series"
+  tag = "tags"
+  author = "authors"
+
+[[params.social]]
+    name = "Github"
+    icon = "fa fa-github"
+    weight = 1
+    url = "https://github.com/Kin-Wang/"
+#[[params.social]]
+#    name = "Gitlab"
+#    icon = "fa fa-gitlab"
+#    weight = 2
+#    url = "https://gitlab.com/johndoe/"
+[[params.social]]
+    name = "Twitter"
+    icon = "fa fa-twitter"
+    weight = 3
+    url = "https://twitter.com/KinWang19/"
+[[params.social]]
+    name = "LinkedIn"
+    icon = "fa fa-linkedin"
+    weight = 4
+    url = "https://www.linkedin.com/in/kin-peng-wang/"
+#[[params.social]]
+#    name = "Zhihu"
+#    icon = "<i class='fab fa-zhihu'></i>"
+#    weight = 5
+#    url = "https://www.zhihu.com/people/kin-wang-73"
+#[[params.social]]
+#    name = "RSS"
+#    icon = "fa fa-rss"
+#    weight = 6
+#    url = "https://myhugosite.com/index.xml"
+#    rel = "alternate"
+#    type = "application/rss+xml"
+
+
+[languages]
+    [languages.en]
+        languageName = "English"
+
+        [languages.en.menu]
+
+            [[languages.en.menu.main]]
+            name = "About"
+            weight = 1
+            url = "about/"
+
+            [[languages.en.menu.main]]
+            name = "Blog"
+            weight = 2
+            url = "posts/"
+
+            [[languages.en.menu.main]]
+            name = "Researches"
+            weight = 3
+            url = "projects/"
+
+            [[languages.en.menu.main]]
+            name = "Contact me"
+            weight = 5
+            url = "contact/"
+
+
+    [languages.zh-cn]
+        languageName = "中文"
+        title = "王鹏"
+
+        [languages.zh-cn.params]
+            author = "王鹏"
+            info = "流行病学博士生，传染病模型"
+            description = "王鹏的个人主页"
+            keywords = "博客，个人"
+            footerContent = "R语言，罗格斯公共健康学院"
+
+        [languages.zh-cn.menu]
+
+            [[languages.zh-cn.menu.main]]
+            name = "简介"
+            weight = 1
+            url = "about/"
+
+            [[languages.zh-cn.menu.main]]
+            name = "博客"
+            weight = 2
+            url = "posts/"
+
+            [[languages.zh-cn.menu.main]]
+            name = "研究"
+            weight = 3
+            url = "projects/"
+
+            [[languages.zh-cn.menu.main]]
+            name = "联系方式"
+            weight = 5
+            url = "contact/"
