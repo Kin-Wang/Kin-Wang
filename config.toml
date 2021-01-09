@@ -1,5 +1,5 @@
 baseURL = "https://pengwang93.netlify.app"
-title = "Peng Wang"
+title = "PW's Page"
 
 theme = "hugo-coder"
 
@@ -21,7 +21,7 @@ pygmentsCodeFencesGuessSyntax = true
     info = "PhD Student in Epidemiology, Infectious Diseases Modeling"
     avatarURL = "images/IMG_2226.jpeg"
     #gravatar = ""
-    footerContent = "RStat, Rutgers SPH"
+    footerContent = "RStat, Python, Open Source"
 
     dateFormat = "January 2, 2006"
 
@@ -156,7 +156,7 @@ pygmentsCodeFencesGuessSyntax = true
             info = "流行病学博士生，传染病模型"
             description = "王鹏的个人主页"
             keywords = "博客，个人"
-            footerContent = "R语言，罗格斯公共健康学院"
+            footerContent = "R, Python, 开源"
 
         [languages.zh-cn.menu]
 
