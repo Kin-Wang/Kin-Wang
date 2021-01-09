@@ -28,7 +28,7 @@ pygmentsCodeFencesGuessSyntax = true
     hideFooter = false
     hideCredits = false
     hideCopyright = false
-    since = 2019
+    since = 2020
 
     # Git Commit in Footer, uncomment the line below to enable it.
     #commit = "https://github.com/luizdepra/hugo-coder/tree/"
