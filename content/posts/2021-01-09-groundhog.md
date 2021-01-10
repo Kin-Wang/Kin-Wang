@@ -5,10 +5,9 @@ date: '2021-01-05'
 slug: []
 categories:
   - blog
-tags:
-  - R
+tags:[]
 authors: []
 description: ''
 externalLink: 'http://datacolada.org/95'
-series: [R Packages]
+series: []
 ---
