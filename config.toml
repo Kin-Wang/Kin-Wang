@@ -149,7 +149,7 @@ pygmentsCodeFencesGuessSyntax = true
 
     [languages.zh-cn]
         languageName = "中文"
-        title = "王鹏"
+        title = "PW‘s Page"
 
         [languages.zh-cn.params]
             author = "王鹏"
