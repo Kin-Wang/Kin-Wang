@@ -10,6 +10,7 @@ title: 研究
 
 ## 发表
 
+* Babel, R.A., **Wang, P.**, Alessi, E.J. et al. Stigma, HIV Risk, and Access to HIV Prevention and Treatment Services Among Men Who have Sex with Men (MSM) in the United States: A Scoping Review. AIDS Behav (2021). https://doi.org/10.1007/s10461-021-03262-4.
 * Raymond, H.F., Datta, P., Ukey, R., **Wang, P.**, Martino, R.J., Krause, K.D., Rosmarin-DeStefano, R., Pinter, A., Halkitis, P.N., Gennaro, M.L. (2021). Self-reported symptoms, self-reported viral testing result and seroprevalence of SARS CoV-2 among a community sample in Essex County New Jersey: A brief report. Medrvix (Preprint). doi: https://doi.org/10.1101/2021.03.02.21252766.
 * **Wang, P.**, Wogayehu, A., Fahad, A., Menschner, C, Rosemarin-DeStefano, C, Raymond, H.F. (2020). HIV Prevalence and Associated Factors Among Men Who Have Sex With Men (MSM) in New Jersey, U.S., 2017. _已提交_.
 * **Wang, P.**, Wogayehu, A., Fahad, A., Menschner, C, Bolden, B., Rosemarin-DeStefano, C, Raymond, H.F. (2020). The 90-90-90 Cascade among Men who Have Sex with Men in the Greater Newark, New Jersey Area, 2017. _已提交_.
