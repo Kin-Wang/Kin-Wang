@@ -108,7 +108,7 @@ pygmentsCodeFencesGuessSyntax = true
     url = "https://www.linkedin.com/in/kin-peng-wang/"
 [[params.social]]
     name = "CV"
-    icon = "fa fa-file-pdf"
+    icon = "<i class='far fa-file-pdf'></i>"
     weight = 5
     url = "https://github.com/Kin-Wang/Kin-Wang/blob/master/content/GIT_PENG%20WANG's%20CV.pdf"
 #[[params.social]]
