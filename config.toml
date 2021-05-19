@@ -106,11 +106,11 @@ pygmentsCodeFencesGuessSyntax = true
     icon = "fa fa-linkedin"
     weight = 4
     url = "https://www.linkedin.com/in/kin-peng-wang/"
-#[[params.social]]
-#    name = "Zhihu"
-#    icon = "<i class='fab fa-zhihu'></i>"
-#    weight = 5
-#    url = "https://www.zhihu.com/people/kin-wang-73"
+[[params.social]]
+    name = "CV"
+    icon = "fa fa-file-pdf"
+    weight = 5
+    url = "https://github.com/Kin-Wang/Kin-Wang/blob/master/content/GIT_PENG%20WANG's%20CV.pdf"
 #[[params.social]]
 #    name = "RSS"
 #    icon = "fa fa-rss"
