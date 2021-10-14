@@ -15,7 +15,8 @@ Peng is a PhD student of Epidemiology and a research assistant in Rutgers School
 
 * Infectious Diseases
 * HIV/AIDS
-* Modeling
+* Epidemiological Methods
+* Sampling Methods
 * Social Networks
 
 ## Skills
@@ -23,6 +24,7 @@ Peng is a PhD student of Epidemiology and a research assistant in Rutgers School
 * R, Python, SAS
 * Data Manipulation, Analysis, and Visualization
 * Epidemiological Study Design 
+* Biostatistics
 
 
 
