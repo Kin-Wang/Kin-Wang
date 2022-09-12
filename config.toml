@@ -91,11 +91,11 @@ pygmentsCodeFencesGuessSyntax = true
     icon = "fa fa-github"
     weight = 1
     url = "https://github.com/Kin-Wang/"
-#[[params.social]]
-#    name = "Gitlab"
-#    icon = "fa fa-gitlab"
-#    weight = 2
-#    url = "https://gitlab.com/johndoe/"
+[[params.social]]
+    name = "Google"
+    icon = "fa fa-google"
+    weight = 2
+    url = "https://scholar.google.com/citations?hl=en&user=a7laalQAAAAJ"
 [[params.social]]
     name = "Twitter"
     icon = "fa fa-twitter"
