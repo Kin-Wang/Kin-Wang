@@ -18,7 +18,7 @@ pygmentsCodeFencesGuessSyntax = true
     author = "Peng Wang"
     description = "Peng Wang's Personal Website"
     keywords = "blog, personal"
-    info = "PhD Student in Epidemiology, Infectious Diseases Modeling"
+    info = "PhD Candidate in Public Health, Epidemiology"
     avatarURL = "images/IMG_2226.jpeg"
     #gravatar = ""
     footerContent = "RStat, Python, Open Source"
@@ -153,7 +153,7 @@ pygmentsCodeFencesGuessSyntax = true
 
         [languages.zh-cn.params]
             author = "王鹏"
-            info = "流行病学博士生，传染病模型"
+            info = "流行病学博士资格候选人"
             description = "王鹏的个人主页"
             keywords = "博客，个人"
             footerContent = "R, Python, 开源"
