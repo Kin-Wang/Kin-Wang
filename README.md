@@ -1,12 +1,10 @@
 ## Hi I'm Kin :dog2:  
 
-:man_student: I am a PhD student in Epidemiology 
+:man_technologist: I have a PhD in Epidemiology 
 
 :book: I studied sociology and medical anthropology before
 
-:microbe: Now I study infectious diseases especially HIV/AIDS and STDs
-
-:man_technologist: I use **R**, Python, and SAS to manipulate and visualize data, to model the transmission of infectious disease and social networks
+:microbe: Now I focus on sampling methods and epidemiological methods
 
 :a: anarchist :man_shrugging: 
 
